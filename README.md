@@ -1,1 +1,41 @@
-# 42-Yerevan-Armenia
+# 42-Yerevan-Armenia | arakhurs
+My Personal Repository for the various projects from 42. Born2Code! :computer: :grin:
+
+<p align="center">
+  <a href="https://www.42yerevan.am/">
+    <img src="https://camo.githubusercontent.com/dd673a97363600f40f77fffcf6c48d18af7e0e31ce0036804c0cce74e833b1c4/68747470733a2f2f692e696d6775722e636f6d2f437a486b7032792e706e67">
+  </a>
+</p>
+
+## Main Stats
+
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/arakhurs">
+    <img src="https://badgen.net/badge/Born2Code/arakhurs/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+  </a>
+  <img src=https://img.shields.io/github/last-commit/Aramxxx8691/42-Yerevan-Armenia/master/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
+    <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=undefined">
+  </a>
+</p>
+
+## Project List
+
+### Finished Projects
+
+|  Nº  | Project | Description | Topics | Finished | Activity | Status |
+| :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
+| 1 | [libft](https://github.com/Aramxxx8691/Libft-42) | *Your very first own library* | C, Makefile, Library | April 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Libft-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2525463)](https://github.com/JaeSeoKim/badge42) |
+| 2 | [ft_printf](https://github.com/Aramxxx8691/PrintF-42) | *Because putnbr and putstr aren’t enough* | C, Makefile, Print | April 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/PrintF-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2560384)](https://github.com/JaeSeoKim/badge42) |
+| 3 | [get_next_line](https://github.com/Aramxxx8691/Get-Next-Line-42) | *Reading a line on a *fd* is way too tedious* | C, Reading | April 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Get-Next-Line-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2555721)](https://github.com/JaeSeoKim/badge42) |
+
+### In-Progress Projects
+
+<p align="center">
+  <a href="https://www.42yerevan.am/">
+    <img src="https://user-images.githubusercontent.com/40824677/150541520-93b9bbfe-cb72-4bd0-80ae-a6f5637d3a77.png">
+  </a>
+</p>
