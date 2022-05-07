@@ -41,7 +41,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
-| 1 | [born2beroot](https://github.com/Aramxxx8691/42-Yerevan-Armenia/tree/master/Born2beroot-42) | *The wonderful world of virtualization* | Shell, Virtualization | April 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Born2beRoot-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2575362)](https://github.com/JaeSeoKim/badge42) |
+| 1 | [born2beroot](https://github.com/Aramxxx8691/Born2beRoot-42) | *The wonderful world of virtualization* | Shell, Virtualization | April 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Born2beRoot-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2575362)](https://github.com/JaeSeoKim/badge42) |
 
 <p align="center">
   <a href="https://www.42yerevan.am/">
