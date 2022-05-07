@@ -1,0 +1,205 @@
+crypt       en8691 -> sda5_crypt
+root        vb8691
+hostname    arakhurs42
+username    user42  user8691 -> lsblk
+
+ssh aram@localhost -p 4242 -> terminal connection
+head -n 2 /etc/os-release
+/usr/sbin/aa-status
+ss -tunip
+/usr/sbin/ufw status
+
+"signature.txt" file is present at the root of the cloned repository -> shasum born2veroot.vdi
+ ".vdi" file is located in goinfre directory
+
+-------------------------------------------------Project overview-------------------------------------------------
+
+1) How a virtual machine works. ->                                                                                                  -> Վիրտուալ մեքենան համակարգչային ֆայլ է, որն իրեն պահում է իրական համակարգչի նման: 
+                                                                                                                                    Այն կարող է աշխատել որպես առանձին միջավայր, հաճախ՝ այլ օպերացիոն համակարգ գործարկելու համար:
+2) Their choice of operating system. ->                                                                                             -> Linux - Debian 11 x64
+3) The basic differences between CentOS and Debian. ->                                                                              -> https://www.educba.com/centos-vs-debian/
+4) The purpose of virtual machines. ->                                                                                              -> Միաժամանակ մի քանի օպերացիոն համակարգերի գործարկումն է նույն սարքից:
+5) Debian: the difference between aptitude and apt, and what APPArmor is. ->                                                        -> https://www.tecmint.com/difference-between-apt-and-aptitude/
+                                                                                                                    https://linuxhint.com/debian_apparmor_tutorial/
+---------------------------------------------------Simple setup---------------------------------------------------
+
+A password will be requested before attempting to connect to this machine. ->                                                       -> OK
+This user must not be root. ->                                                                                                      -> OK
+1) Check that the UFW service is started. ->                                                                                        -> sudo ufw status
+2) Check that the SSH service is started. ->                                                                                        -> sudo systemctl status ssh
+3) Check that the chosen operating system is Debian or CentOS. ->                                                                   -> cat /etc/os-release
+
+-------------------------------------------------------User-------------------------------------------------------
+
+The subject requests that a user with the login of the student being evaluated is present on the virtual machine. ->                -> arakhurs42
+Check that it has been added and that it belongs to the "sudo" and "user42" groups. ->                                              -> getent group <groupname>
+
+1) First, create a new user. ->                                                                                                     -> Step 2:
+2) Assign it a password of your choice. ->                                                                                          -> new pasword
+3) Normally there should be one or two modified files. ->                                                                           -> sudo vim /etc/login.defs
+                                                                                                                            sudo vim /etc/pam.d/common-password
+4) Create a group named "evaluating" in front of you and assign it to this user. ->                                                 -> Step 3:
+5) Check that this user belongs to the "evaluating" group. ->                                                                       -> getent group evaluating
+
+    USER MANAGMENT
+
+    - Step 1: Setting Up a Strong Password Policy
+    sudo vim /etc/login.defs
+    PASS_MAX_DAYS 99999 -> 30
+    PASS_MIN_DAYS 0 -> 2
+
+    sudo apt install libpam-pwquality
+    dpkg -l | grep libpam-pwquality
+    sudo vim /etc/pam.d/common-password
+    retry=3 add after -> minlen=10 ucredit=-1 dcredit=-1 maxrepeat=3 reject_username difok=7 enforce_for_root
+
+    - Step 2: Creating a New User
+    sudo adduser <username> -> aram Yerevan4242
+    getent passwd <username>
+    sudo chage -l <username>
+    sudo deluser <username>
+    - Step 3: Creating a New Group
+    sudo addgroup user42
+    sudo adduser <username> user42  /   sudo usermod -aG user42 <username>
+    getent group user42
+    sudo delgroup <groupname>
+
+----------------------------------------------Hostname and partitions----------------------------------------------
+
+1) The hostname is login42. ->                                                                                                      -> hostnamectl
+2) Modify this hostname by replacing the login with yours, then restart the machine. ->                                             -> hostnamectl set-hostname new_hostname
+                                                                                                                                sudo vim /etc/hostname
+                                                                                                                                sudo reboot
+3) Restore the machine to the original hostname. ->                                                                                 -> repeat 2)
+4) How to view the partitions for this virtual machine. ->                                                                          -> lsblk
+5) How LVM works and what it is all about. ->                                                                                       -> https://www.digitalocean.com/community/tutorials/an-introduction-to-lvm-concepts-terminology-and-operations
+
+-------------------------------------------------------SUDO--------------------------------------------------------
+
+1) Check that the "sudo" program is properly installed on the virtual machine. ->                                                   -> dpkg -l | grep sudo
+2) Assigning your new user to the "sudo" group ->                                                                                   -> Step 2:
+3) Explain the value and operation of sudo using examples of their choice. ->                                                       -> Step 4:
+4) Verify that the "/var/log/sudo/" folder exists and has at least one file ->                                                      -> cd /var/log/sudo/
+5) Check the contents of the files in this folder, You should see a history of the commands used with sudo. ->                      -> vim sudo.log
+6) Try to run a command via sudo. See if the file(s) in the "/var/log/sudo/" folder have been updated. ->                           -> sudo ls / sudo pwd
+
+    SUDO COMANDS
+
+     - Step 1: Installing sudo
+
+    whoami                  -> username
+    su username             -> switch user
+    apt install sudo
+    dpkg -l | grep sudo     -> Verify whether sudo was successfully installed
+
+     - Step 2: Adding User to sudo Group
+
+    adduser <username> sudo OR usermod -aG sudo <username>
+    getent group sudo       -> Check that user was added to sudo
+    sudo -v                 -> 
+    reboot
+
+     - Step 3: Running root-Privileged Commands
+    sudo apt update
+
+     - Step 4: Configuring sudo
+    sudo vim /etc/sudoers.d/<filename>   -> ?
+    sudo vim /etc/sudoers -> Add a user and grant full sudo privileges (permissions)
+
+--------------------------------------------------------UFW--------------------------------------------------------
+
+1) Check that the "UFW" program is properly installed on the virtual machine. ->                                                    -> dpkg -l | grep ufw
+2) Explain basically what UFW is and the value of using it. ->                                                                      -> https://www.linux.com/training-tutorials/introduction-uncomplicated-firewall-ufw/
+3) List the active rules in UFW - port 4242. ->                                                                                     -> sudo ufw status verbose
+4) Add a new rule to open port 8080. ->                                                                                             -> Settings in VM and allow
+5) Delete this new rule. ->                                                                                                         -> sudo ufw delete <string number>
+
+    UFW COMANDS
+
+     - Step 1: Update the Package Manager
+    sudo apt-get update
+
+    - Step 2: Installing & Configuring UFW
+    sudo apt install ufw
+    sudo ufw status verbose / dpkg -l | grep ufw
+    sudo ufw enable/disable
+    sudo ufw allow 4242
+    sudo ufw status -> check 4242
+
+    - Step 3: UFW Default Policies
+    /etc/default/ufw
+    sudo ufw default deny incoming
+    sudo ufw default allow outgoing
+
+    - Step 4: UFW Application Profiles
+    /etc/ufw/applications.d
+    sudo ufw app list
+
+--------------------------------------------------------SSH--------------------------------------------------------
+
+1) Check that the SSH service is properly installed on the virtual machine. ->                                                      -> dpkg -l | grep ssh
+2) Explain basically what SSH is and the value of using it. ->                                                                      -> https://www.techtarget.com/searchsecurity/definition/Secure-Shell
+3) Verify that the SSH service only uses port 4242.  ->                                                                             -> vim /etc/ssh/sshd_config change 22
+4) Use SSH in order to log in with the newly created user. You can use a key or a simple password.  ->                              -> ssh aram@localhost -p 4242
+5) Make sure that you cannot use SSH with the "root" user. ->                                                                       -> ssh root@localhost -p 4242
+
+    SSH COMANDS
+
+     - Step 1: Update the Package Manager
+    sudo apt-get update
+
+     - Step 2: Install SSH Server
+    sudo apt install openssh-server
+    sudo systemctl status ssh   /   dpkg -l | grep ssh
+                                                        vi /etc/ssh/sshd_config change 23 #PermitRootLogin prohibit-password / 23 PermitRootLogin no -> Password on/off
+     - Step 3: Start and Stop the SSH Server
+    sudo service ssh stop/start
+    sudo systemctl enable/disable ssh
+    - Step 4: Get Your Server IP Address
+    ip a
+
+    - Step 5: Install SSH Client Service (Optional)
+    sudo apt-get update
+    sudo apt-get install openssh-client
+
+    - Firewall and Security Settings
+    sudo ufw allow ssh
+
+------------------------------------------------Script monitoring------------------------------------------------
+
+1) How their script works by showing you the code. ->                                                                               -> Explain script in monitoring.sh
+2) What "cron" is. ->                                                                                                               -> https://compbio.cornell.edu/about/resources/linux-cron-and-crontab/
+3) Set up their script so that it runs every 10 minutes from when the server starts. ->                                             -> sudo crontab -u root -e
+                                                                                                    23 # m h  dom mon dow   command -> 23 */10 * * * * sh /path/to/script
+4) Once the correct functioning of the script has been verified, ensure that this script runs every 30s. ->                         -> 23 */0.3 * * * * sh /path/to/script
+5) You can run whatever you want to make sure the script runs with dynamic values correctly. ->                                     -> comment 23 # */0.3 * * * * sh /path/to/script
+6) Make the script stop running when the server has started up, but without modifying the script itself. ->                         -> vim monitoring.sh
+7) Restart the server one last time. ->                                                                                             -> sudo reboot
+8) At startup, it will be necessary to check that the script still exists in the same place, 
+that its rights have remained unchanged, and that it has not been modified. ->                                                      -> i make changes in crontab and didn't modified monitoring.sh
+
+vim monitoring.sh
+
+#!/bin/bash
+wall $'#Architecture: ' `hostnamectl | grep "Operating System" | cut -d ' ' -f5- ` `awk -F':' '/^model name/ {print $2}' /proc/cpuinfo | uniq | sed -e 's/^[ \t]*//'` `arch` \
+$'\n#CPU physical: '`cat /proc/cpuinfo | grep processor | wc -l` \
+$'\n#vCPU:  '`cat /proc/cpuinfo | grep processor | wc -l` \
+$'\n'`free -m | awk 'NR==2{printf "#Memory Usage: %s/%sMB (%.2f%%)", $3,$2,$3*100/$2 }'` \
+$'\n'`df -h | awk '$NF=="/"{printf "#Disk Usage: %d/%dGB (%s)", $3,$2,$5}'` \
+$'\n'`top -bn1 | grep load | awk '{printf "#CPU Load: %.2f\n", $(NF-2)}'` \
+$'\n#Last boot: ' `who -b | awk '{print $3" "$4" "$5}'` \
+$'\n#LVM use: ' `lsblk |grep lvm | awk '{if ($1) {print "yes";exit;} else {print "no"} }'` \
+$'\n#Connection TCP:' `netstat -an | grep ESTABLISHED |  wc -l` \
+$'\n#User log: ' `who | cut -d " " -f 1 | sort -u | wc -l` \
+$'\nNetwork: IP ' `hostname -I`"("`ip a | grep link/ether | awk '{print $2}'`")" \
+$'\n#Sudo:  ' `grep 'sudo ' /var/log/auth.log | wc -l`
+
+------------------------------------------------------BONUS------------------------------------------------------
+
+1) Setting up partitions is worth 2 points. ->                                                                                      -> ?
+2) Setting up WordPress, only with the services required by the subject, is worth 2 points. ->                                      -> ?
+3) The free choice service is worth 1 point. ->                                                                                     -> ?
+4) Verify and test the proper functioning and implementation of each extra service. ->                                              -> \KO/ command
+5) For the free choice service - how it works and why they think it is useful. ->                                                   -> \KO/ text
+6) NGINX and Apache2 are prohibited. ->                                                                                             -> OK / KO
+
