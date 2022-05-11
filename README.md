@@ -34,7 +34,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/Tester-42">
-    <img src="https://cdn-images-1.medium.com/max/720/1*cRw85cXCCMB-LBlnCJLKDg.png">
+    <img src="https://www.memecreator.org/static/images/memes/4567778.jpg">
   </a>
 </p>
 
