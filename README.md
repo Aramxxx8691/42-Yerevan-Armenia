@@ -42,7 +42,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
-| 1 | [exame_02](https://github.com/42-Yerevan-Armenia/Exam_Rank_02) | *Rank 2 exam* | C, exam, *ft_libft* | May 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Born2beRoot-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2586102)](https://github.com/JaeSeoKim/badge42) |
+| 1 | [Exam Rank 02](https://github.com/42-Yerevan-Armenia/Exam_Rank_02) | *The annoying exam 👹 | C, exam, *ft_libft* | May 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Born2beRoot-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2586102)](https://github.com/JaeSeoKim/badge42) |
 
 <p align="center">
   <a href="https://www.42yerevan.am/">
