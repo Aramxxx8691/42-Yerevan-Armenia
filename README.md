@@ -17,7 +17,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
-    <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=undefined">
+    <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=267">
   </a>
 </p>
 
@@ -34,6 +34,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 | 5 | [Exam Rank 02](https://github.com/42-Yerevan-Armenia/Exam_Rank_02) | *The annoying exam 👹* | C, exam, *ft_libft* | Jul 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_02/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2636951)](https://github.com/JaeSeoKim/badge42) |
 | 6 | [pipex](https://github.com/42-Yerevan-Armenia/Pipex-42) | *Go dance salsa somewhere :)* | C, Makefile, Sorting | Jul 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Pipex-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670106)](https://github.com/JaeSeoKim/badge42) |
 | 7 | [so_long](https://github.com/42-Yerevan-Armenia/So_long-42) | *And thanks for all the fish!* | C, Makefile, UX, Videogame | Aug 9 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/So_long-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
+| 8 | [push_swap](https://github.com/42-Yerevan-Armenia/Push_swap-42) | *Because swap_push isn’t as natural* | C, Makefile, Fork, Algorithm, Stack, Sort | Sep 6 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Push_swap-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670044)](https://github.com/JaeSeoKim/badge42) |
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/Tester-42">
@@ -45,12 +46,11 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
-| 1 | [push_swap](https://github.com/42-Yerevan-Armenia/Push_swap-42) | *Because swap_push isn’t as natural* | C, Makefile, Fork, Algorithm, Stack, Sort | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Push_swap-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670044)](https://github.com/JaeSeoKim/badge42) |
+| 1 | [Exam Rank 03](https://github.com/42-Yerevan-Armenia/Exam_Rank_03) | *Easy one* | C, exam, ft_printf, get_next_line | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_03/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2636951)](https://github.com/JaeSeoKim/badge42) |
 
 <!---
-| 2 | [Exam Rank 03](https://github.com/42-Yerevan-Armenia/Exam_Rank_03) | *Easy one* | C, exam, ft_printf, get_next_line | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_03/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
-| 5 | [minishell](https://github.com/42-Yerevan-Armenia/Minishell-42) | *As beautiful as a shell* | C, Makefile, Shell | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Minishell/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
-| 6 | [philosophers](https://github.com/42-Yerevan-Armenia/Philosophers-42) | *I’ve never thought philosophy would be so deadly* | C, Makefile, Thread, Mutex | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Philosophers-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
+| 2 | [minishell](https://github.com/42-Yerevan-Armenia/Minishell-42) | *As beautiful as a shell* | C, Makefile, Shell | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Minishell/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
+| 3 | [philosophers](https://github.com/42-Yerevan-Armenia/Philosophers-42) | *I’ve never thought philosophy would be so deadly* | C, Makefile, Thread, Mutex | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Philosophers-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
 | 7 | [Exam Rank 04](https://github.com/42-Yerevan-Armenia/Exam_Rank_04) | *Microshell* | C, Makefile, exam, minishell, microshell | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_04/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
 | 8 | [cub3d](https://github.com/42-Yerevan-Armenia/Cub3d-42) | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cub3d-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
 | 9 | [NetPractice](https://github.com/42-Yerevan-Armenia/NetPractice-42) | *Fred, there is an unplugged Ethernet cable...* | Networking | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/NetPractice-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
