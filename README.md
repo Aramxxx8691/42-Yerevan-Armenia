@@ -48,7 +48,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
-| 1 | [minishell](https://github.com/42-Yerevan-Armenia/Minishell-42) | *As beautiful as a shell* | C, Makefile, Shell | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Minishell/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2774915)](https://github.com/JaeSeoKim/badge42) |
+| 1 | [minishell](https://github.com/42-Yerevan-Armenia/Minishell-42) | *As beautiful as a shell* | C, Makefile, Shell | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Minishell/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2774916)](https://github.com/JaeSeoKim/badge42) |
 <!---
 
 | 7 | [Exam Rank 04](https://github.com/42-Yerevan-Armenia/Exam_Rank_04) | *Microshell* | C, Makefile, exam, minishell, microshell | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_04/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
