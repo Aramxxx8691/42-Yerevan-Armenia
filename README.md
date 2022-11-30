@@ -50,11 +50,11 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
 | 1 | [Exam Rank 04](https://github.com/42-Yerevan-Armenia/Exam_Rank_04) | *Microshell* | C, Makefile, exam, minishell, microshell | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_04/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
-<!---
+| 2 | [cub3d](https://github.com/42-Yerevan-Armenia/Cub3d-42) | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cub3d-42/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
+| 3 | [NetPractice](https://github.com/42-Yerevan-Armenia/NetPractice-42) | *Fred, there is an unplugged Ethernet cable...* | Networking | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/NetPractice-42/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
+| 4 | [CPP Modules](https://github.com/42-Yerevan-Armenia/CPP-42) | *Lots of basic stuff* | C++, Makefile | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/CPP-42/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
 
-| 8 | [cub3d](https://github.com/42-Yerevan-Armenia/Cub3d-42) | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cub3d-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
-| 9 | [NetPractice](https://github.com/42-Yerevan-Armenia/NetPractice-42) | *Fred, there is an unplugged Ethernet cable...* | Networking | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/NetPractice-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
-| 10 | [CPP Modules](https://github.com/42-Yerevan-Armenia/CPP-42) | *Lots of basic stuff* | C++, Makefile | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/CPP-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2670036)](https://github.com/JaeSeoKim/badge42) |
+<---
 
 madebypixel02/42-Madrid-Cursus
 
