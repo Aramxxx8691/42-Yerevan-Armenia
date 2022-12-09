@@ -38,6 +38,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 | 9 | [Exam Rank 03](https://github.com/42-Yerevan-Armenia/Exam_Rank_03) | *Easy one* | C, exam, ft_printf, get_next_line | Sep 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_03/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2636951)](https://github.com/JaeSeoKim/badge42) |
 | 10 | [philosophers](https://github.com/42-Yerevan-Armenia/Philosophers-42) | *I’ve never thought philosophy would be so deadly* | C, Makefile, Thread, Mutex | Sep 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Philosophers-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2774915)](https://github.com/JaeSeoKim/badge42) |
 | 11 | [minishell](https://github.com/42-Yerevan-Armenia/Minishell-42) | *As beautiful as a shell* | C, Makefile, Shell | Nov 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Minishell-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2774916)](https://github.com/JaeSeoKim/badge42) |
+| 12 | [Exam Rank 04](https://github.com/42-Yerevan-Armenia/Exam_Rank_04) | *Microshell* | C, Makefile, exam, minishell, microshell | Dec | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_04/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2636951)](https://github.com/JaeSeoKim/badge42) |
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/Tester-42">
@@ -49,10 +50,9 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
-| 1 | [Exam Rank 04](https://github.com/42-Yerevan-Armenia/Exam_Rank_04) | *Microshell* | C, Makefile, exam, minishell, microshell | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_04/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
-| 2 | [cub3d](https://github.com/42-Yerevan-Armenia/Cub3d-42) | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cub3d-42/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
-| 3 | [NetPractice](https://github.com/42-Yerevan-Armenia/NetPractice-42) | *Fred, there is an unplugged Ethernet cable...* | Networking | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/NetPractice-42/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
-| 4 | [CPP Modules](https://github.com/42-Yerevan-Armenia/CPP-42) | *Lots of basic stuff* | C++, Makefile | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/CPP-42/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
+| 1 | [cub3d](https://github.com/42-Yerevan-Armenia/Cub3d-42) | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cub3d-42/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
+| 2 | [NetPractice](https://github.com/42-Yerevan-Armenia/NetPractice-42) | *Fred, there is an unplugged Ethernet cable...* | Networking | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/NetPractice-42/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
+| 3 | [CPP Modules](https://github.com/42-Yerevan-Armenia/CPP-42) | *Lots of basic stuff* | C++, Makefile | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/CPP-42/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
 
 <---
 
