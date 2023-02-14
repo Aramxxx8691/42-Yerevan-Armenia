@@ -3,7 +3,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 <p align="center">
   <a href="https://www.42yerevan.am/">
-    <img src="https://camo.githubusercontent.com/dd673a97363600f40f77fffcf6c48d18af7e0e31ce0036804c0cce74e833b1c4/68747470733a2f2f692e696d6775722e636f6d2f437a486b7032792e706e67">
+    <img src="https://res.cloudinary.com/teepublic/image/private/s--9-CQoKQ4--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1556645690/production/designs/4744057_0.jpg" with=200 height=200>
   </a>
 </p>
 
@@ -17,7 +17,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
-    <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=267">
+    <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=undefined">
   </a>
 </p>
 
@@ -38,8 +38,9 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 | 9 | [Exam Rank 03](https://github.com/42-Yerevan-Armenia/Exam_Rank_03) | *Easy one* | C, exam, ft_printf, get_next_line | Sep 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_03/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2636951)](https://github.com/JaeSeoKim/badge42) |
 | 10 | [philosophers](https://github.com/42-Yerevan-Armenia/Philosophers-42) | *I’ve never thought philosophy would be so deadly* | C, Makefile, Thread, Mutex | Sep 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Philosophers-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2774915)](https://github.com/JaeSeoKim/badge42) |
 | 11 | [minishell](https://github.com/42-Yerevan-Armenia/Minishell-42) | *As beautiful as a shell* | C, Makefile, Shell | Nov 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Minishell-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2774916)](https://github.com/JaeSeoKim/badge42) |
-| 12 | [Exam Rank 04](https://github.com/42-Yerevan-Armenia/Exam_Rank_04) | *Microshell* | C, Makefile, exam, minishell, microshell | Dec | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_04/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2901567)](https://github.com/JaeSeoKim/badge42) |
-| 13 | [NetPractice](https://github.com/42-Yerevan-Armenia/NetPractice-42) | *Fred, there is an unplugged Ethernet cable...* | Networking | Dec | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/NetPractice-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2910483)](https://github.com/JaeSeoKim/badge42) |
+| 12 | [Exam Rank 04](https://github.com/42-Yerevan-Armenia/Exam_Rank_04) | *Microshell* | C, Makefile, exam, minishell, microshell | Dec 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_04/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2901567)](https://github.com/JaeSeoKim/badge42) |
+| 13 | [NetPractice](https://github.com/42-Yerevan-Armenia/NetPractice-42) | *Fred, there is an unplugged Ethernet cable...* | Networking | Dec 2022 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/NetPractice-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2910483)](https://github.com/JaeSeoKim/badge42) |
+| 14 | [cub3d](https://github.com/42-Yerevan-Armenia/Cub3d-42) | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX | Feb 2023  | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cub3d-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2910484)](https://github.com/JaeSeoKim/badge42) |
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/Tester-42">
@@ -51,14 +52,12 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
-| 1 | [cub3d](https://github.com/42-Yerevan-Armenia/Cub3d-42) | *My first RayCaster with miniLibX* | C, Makefile, cub3d, FPS, UX | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cub3d-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2910484)](https://github.com/JaeSeoKim/badge42) |
-| 2 | [CPP Modules](https://github.com/42-Yerevan-Armenia/CPP-42) | *Lots of basic stuff* | C++, Makefile | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/CPP-42/master) | [![arakhurs's 42Project Score](❌)](https://github.com/JaeSeoKim/badge42) |
+| 1 | [CPP Modules](https://github.com/42-Yerevan-Armenia/CPP-42) | *Lots of basic stuff* | C++, Makefile | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/CPP-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2910484)](https://github.com/JaeSeoKim/badge42) |
 
-<---
-
+<!---
 madebypixel02/42-Madrid-Cursus
-
 --->
+
 <p align="center">
   <a href="https://www.42yerevan.am/">
     <img src="https://github-readme-stats.vercel.app/api?username=Aramxxx8691&count_private=true&show_icons=true&theme=dark">
