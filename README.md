@@ -52,7 +52,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
-| 1 | [CPP Modules](https://github.com/42-Yerevan-Armenia/CPP-42) | *Lots of basic stuff* | C++, Makefile | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/CPP-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2910484)](https://github.com/JaeSeoKim/badge42) |
+| 1 | [CPP Modules](https://github.com/42-Yerevan-Armenia/CPP-42) | *Lots of basic stuff* | C++, Makefile | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/CPP-42/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/3054392)](https://github.com/JaeSeoKim/badge42) |
 
 <!---
 madebypixel02/42-Madrid-Cursus
