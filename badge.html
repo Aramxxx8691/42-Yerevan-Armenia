@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>42 Project Score Badge</title>
+    <style>
+        /* Customize the badge's appearance here */
+        .badge {
+            padding: 5px 10px;
+            background-color: #4CAF50;
+            color: white;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <img src="your_profile_image_url" alt="Your 42 Profile Image" width="50">
+        <span class="badge" id="projectScoreBadge">Loading...</span>
+    </div>
+
+    <script>
+        const userId = "your_user_id"; // Replace with your 42 Network user ID
+        const apiKey = "your_api_key"; // Replace with your 42 API token
+
+        // Fetch project score
+        fetch(`https://api.intra.42.fr/v2/users/${userId}`, {
+            headers: {
+                Authorization: `Bearer ${apiKey}`,
+            },
+        })
+        .then((response) => response.json())
+        .then((data) => {
+            const projectScore = data.cursus_users[0].level;
+            const projectScoreBadge = document.getElementById("projectScoreBadge");
+            projectScoreBadge.textContent = `Project Score: ${projectScore}`;
+        })
+        .catch((error) => {
+            console.error("Error fetching data:", error);
+            const projectScoreBadge = document.getElementById("projectScoreBadge");
+            projectScoreBadge.textContent = "Unable to fetch project score";
+        });
+    </script>
+</body>
+</html>
