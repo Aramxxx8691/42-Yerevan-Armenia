@@ -57,7 +57,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
 | 1 | [Exam Rank 06](https://github.com/42-Yerevan-Armenia/Exam_Rank_06) | *mini_serv* | C, exam, socket, message | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_06/master) | ![Custom Badge](https://badgen.net/badge/Score/0%25/red?labelColor=blue&scale=2&cache=86400) |
-| 2 | [ft_transcendence](https://github.com/42-Yerevan-Armenia/ft_transcendence-42) | *Soon, you will realize that you already know things that you thought you didn’t* | No more C! No more C++! | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_06/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
+| 2 | [ft_transcendence](https://github.com/42-Yerevan-Armenia/ft_transcendence-42) | *Time to shine!* | No more C! No more C++! | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_06/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
 
 <!---
 madebypixel02/42-Madrid-Cursus
