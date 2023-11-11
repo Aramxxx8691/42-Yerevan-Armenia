@@ -45,6 +45,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 | 16 | [Exam Rank 05](https://github.com/42-Yerevan-Armenia/Exam_Rank_05) | *C++* | C++, exam, CPP Modules | Sep 2023 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_05/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
 | 17 | [Inception](https://github.com/42-Yerevan-Armenia/Inception-42) | *Docker container* | Virtual Machine, Docker, NGINX, WordPress, MariaDB, Makefile | Sep 2023 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Inception-42/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
 | 18 | [Webserv](https://github.com/42-Yerevan-Armenia/Webserv-42) | *This is when you finally understand why a URL starts with HTTP* | HTTP, RFC, NGINX, CGI, C++, Makefile | Sep 2023 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Webserv-42/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
+| 19 | [Exam Rank 06](https://github.com/42-Yerevan-Armenia/Exam_Rank_06) | *mini_serv* | C, exam, socket, message | Nov 2023 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_06/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/Tester-42">
@@ -56,8 +57,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
-| 1 | [Exam Rank 06](https://github.com/42-Yerevan-Armenia/Exam_Rank_06) | *mini_serv* | C, exam, socket, message | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_06/master) | ![Custom Badge](https://badgen.net/badge/Score/0%25/red?labelColor=blue&scale=2&cache=86400) |
-| 2 | [ft_transcendence](https://github.com/42-Yerevan-Armenia/ft_transcendence-42) | *Time to shine!* | No more C! No more C++! | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_06/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
+| 1 | [ft_transcendence](https://github.com/42-Yerevan-Armenia/ft_transcendence-42) | *Time to shine!* | No more C! No more C++! | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_06/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
 
 <!---
 madebypixel02/42-Madrid-Cursus
