@@ -3,9 +3,11 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 <p align="center">
   <a href="https://www.42yerevan.am/">
-    <img src="https://res.cloudinary.com/teepublic/image/private/s--9-CQoKQ4--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1556645690/production/designs/4744057_0.jpg" with=200 height=200>
+    <img src="https://github.com/Aramxxx8691/Git_Images/blob/master/btc.png" with=200 height=200>
   </a>
 </p>
+
+
 
 ## Main Stats
 
@@ -49,7 +51,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/Tester-42">
-    <img src="https://mailtrap.io/wp-content/uploads/2020/06/testing_meme3.png">
+    <img src="https://github.com/Aramxxx8691/Git_Images/blob/master/testing_meme.png">
   </a>
 </p>
 
