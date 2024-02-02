@@ -19,7 +19,8 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/42-Yerevan-Armenia">
-    <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=undefined">
+    <img src="https://badge.mediaplus.ma/greenbinary/arakhurs?1337Badge=off&UM6P=off">
+<!--     <img src="https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/stats?cursusId=21&coalitionId=undefined"> -->
   </a>
 </p>
 
@@ -51,7 +52,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/Tester-42">
-    <img src="https://github.com/Aramxxx8691/Git_Images/blob/master/testing_meme.png">
+    <img src="https://github.com/Aramxxx8691/Git_Images/blob/master/meme_testing.png">
   </a>
 </p>
 
