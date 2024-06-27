@@ -61,9 +61,9 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
-<!---| 1 | [ft_transcendence](https://github.com/42-Yerevan-Armenia/ft_transcendence-42) | *Time to shine!* | No more C! No more C++! | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_06/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
+| 1 | [Django_Piscine](https://github.com/Aramxxx8691/Django-42) | *Time to shine!* | django, python, npm, venv | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Django-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
 
-
+<!---
 madebypixel02/42-Madrid-Cursus
 | 1 | [Exam Rank 05](https://github.com/42-Yerevan-Armenia/Exam_Rank_05) | *C++* | C++, Makefile, exam, CPP Modules | Sep 2023 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_05/master) | [![arakhurs's 42Project Score](https://badge42.vercel.app/api/v2/cl2hghdn0015509jwbq3g6pgx/project/2901567)](https://github.com/JaeSeoKim/badge42) |
 --->
