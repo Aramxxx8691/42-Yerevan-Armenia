@@ -63,7 +63,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
 | 1 | [ft_ping](https://github.com/Aramxxx8691/Ping-42) | *This project is about recoding the ping command.* | C, Makefile, ICMP, RTT/DNS | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Ping-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
-| 1 | [cloud-1](https://github.com/Aramxxx8691/Cloud-1-42) | *Automated deployment of Inception on a remote server.* | Anible, AWS, Terraform, Prometheus, Grafana | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cloud-1-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
+| 2 | [cloud-1](https://github.com/Aramxxx8691/Cloud-1-42) | *Automated deployment of Inception on a remote server.* | Anible, AWS, Terraform, Prometheus, Grafana | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cloud-1-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
 
 <!---
 madebypixel02/42-Madrid-Cursus
