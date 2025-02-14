@@ -51,6 +51,8 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 | 19 | [Exam Rank 06](https://github.com/42-Yerevan-Armenia/Exam_Rank_06) | *mini_serv* | C, exam, socket, message | Nov 2023 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Exam_Rank_06/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
 | 20 | [ft_transcendence](https://github.com/42-Yerevan-Armenia/ft_transcendence-42) | *Time to shine!* | No more C! No more C++! | May 2024 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/ft_transcendence-42/master) | ![Custom Badge](https://badgen.net/badge/Score/105%25/green?labelColor=blue&scale=2&cache=86400) |
 | 21 | [Django_Piscine](https://github.com/Aramxxx8691/Django-42) | *After Python, Django!* | python, django, venv, VM, Docker, ORM, AJAX, Websockets | Dec 2024 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Django-42/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
+| 22 | [cloud-1](https://github.com/42-Yerevan-Armenia/Cloud-1-42) | *Automated deployment of Inception on a remote server.* | Anible, AWS, Terraform, Prometheus, Grafana | Feb 2025 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cloud-1-42/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
+| 22 | [cloud-1 Forked](https://github.com/42-Yerevan-Armenia/Cloud-1) | *Automated deployment of Inception on a remote server.* | Anible, GCP, Terraform | Feb 2025 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cloud-1-42/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/Tester-42">
@@ -63,7 +65,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
 | 1 | [ft_ping](https://github.com/Aramxxx8691/Ping-42) | *This project is about recoding the ping command.* | C, Makefile, ICMP, RTT/DNS | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Ping-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
-| 2 | [cloud-1](https://github.com/Aramxxx8691/Cloud-1-42) | *Automated deployment of Inception on a remote server.* | Anible, AWS, Terraform, Prometheus, Grafana | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cloud-1-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
+| 2 | [IoT](https://github.com/Aramxxx8691/IoT-42) | *This document is a System Administration related exercise.* | K8s, K3s, K3d, Vagrant, Ingress, Argo CD, Gitlab  | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Ping-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
 
 <!---
 madebypixel02/42-Madrid-Cursus
