@@ -53,6 +53,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 | 21 | [Django_Piscine](https://github.com/Aramxxx8691/Django-42) | *After Python, Django!* | python, django, venv, VM, Docker, ORM, AJAX, Websockets | Dec 2024 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Django-42/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
 | 22 | [cloud-1](https://github.com/42-Yerevan-Armenia/Cloud-1-42) | *Automated deployment of Inception on a remote server.* | Anible, AWS, Terraform, Prometheus, Grafana | Feb 2025 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cloud-1-42/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
 | 22 | [cloud-1 Forked](https://github.com/42-Yerevan-Armenia/Cloud-1) | *Automated deployment of Inception on a remote server.* | Anible, GCP, Terraform | Feb 2025 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Cloud-1-42/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
+| 23 | [snowcrush](https://github.com/42-Yerevan-Armenia/SnowCrush-42) | *Cyber security* | | May 2025 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/SnowCrush-42/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) || 24 | [darkly](https://github.com/42-Yerevan-Armenia/Darkly-42) | *Cyber security in the field of the Web* | SQLi, XSS, IDOR, Dirb, Nikto, Hydra, Burp Suite, Cookie Tampering, Header Injection | May 2025 | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Darkly-42/master) | ![Custom Badge](https://badgen.net/badge/Score/100%25/green?labelColor=blue&scale=2&cache=86400) |
 
 <p align="center">
   <a href="https://github.com/Aramxxx8691/Tester-42">
@@ -66,7 +67,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
 | 1 | [ft_ping](https://github.com/Aramxxx8691/Ping-42) | *This project is about recoding the ping command.* | C, Makefile, ICMP, RTT/DNS | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Ping-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
 | 2 | [IoT](https://github.com/Aramxxx8691/IoT-42) | *This document is a System Administration related exercise.* | K8s, K3s, K3d, Vagrant, Ingress, Argo CD, Gitlab  | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/IoT-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
-| 3 | [darkley](https://github.com/42-Yerevan-Armenia/Darkley-42) | *Cyber security in the field of the Web* | SQLi, XSS, IDOR, Dirb, Nikto, Hydra, Burp Suite, Cookie Tampering, Header Injection | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Darkley-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
+
 
 
 
