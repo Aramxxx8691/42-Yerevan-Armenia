@@ -70,7 +70,7 @@ My Personal Repository for the various projects from 42. Born2Code! :computer: :
 |  Nº  | Project | Description | Topics | Finished | Activity | Status |
 | :--: | :-----: | :---------: | :----: | :------: | :------: | :----: |
 | 1 | [ft_ping](https://github.com/Aramxxx8691/Ping-42) | *This project is about recoding the ping command.* | C, Makefile, ICMP, RTT/DNS | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/Ping-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
-| 1 | [BADASS](https://github.com/Aramxxx8691/Ping-42) | *This project is about network administration.* | docker, GNS3, BGPD, OSPFD, VXLAN, IS-IS, BGP with EVPN | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/BADASS-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
+| 2 | [BADASS](https://github.com/Aramxxx8691/BADASS-42) | *This project is about network administration.* | docker, GNS3, BGPD, OSPFD, VXLAN, IS-IS, BGP with EVPN | ❌ | ![GitHub Last Commit](https://img.shields.io/github/last-commit/Aramxxx8691/BADASS-42/master) | ![Custom Badge](https://badgen.net/badge/Suscribed/⏳/yellow?labelColor=yellow&scale=2&cache=86400) |
 
 
 
